@@ -1,14 +1,13 @@
-print("hello world")
-print("hello everybody")
-print("hello you")
-print("hello")
-gelloooo
+print("hello world");
+print("hello everybody");
+print("hello you");
+print("hello");
+gelloooo;
 
 
 
 
 
 
-
-helloooo!
-hello!!!!
+helloooo!;
+hello!!!!;
