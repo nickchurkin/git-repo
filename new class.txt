@@ -1,0 +1,2 @@
+new class
+new 2 class
